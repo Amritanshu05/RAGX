@@ -482,13 +482,6 @@ kubectl rollout status deployment/ragx-frontend -n ragx
 
 ---
 
-
-
-**Amritanshu Priyadarshi** — ML Engineer
-📩 amritanshu0507@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/Amritanshu05)
-
-
 ---
 
 ## License
